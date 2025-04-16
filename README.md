@@ -45,9 +45,3 @@ Key columns include:
 - `Streamlit` — dashboard deployment (optional)
 
 ---
-
-## 🚀 How to Run
-
-1. Clone the repository:
-```bash
-git clone https://github.com/yourusername/forex-gross-profit-analysis.git
